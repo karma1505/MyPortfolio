@@ -4,7 +4,6 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import editor from "../../Assets/Projects/codeEditor.png";
 import glitch from "../../Assets/Projects/glitch.png";
-import bitsOfCode from "../../Assets/Projects/blog.png";
 
 function Projects() {
   return (
@@ -25,18 +24,7 @@ function Projects() {
               title="GLITCH"
               description="Landing and Registration Page For Glitch'24 , Shoolini University's Tech Fest, made using ReactJS, HTML and CSS."
               ghLink="https://github.com/karma1505/gl"
-              demoLink="https://karma1505.github.io/gl/"
-            />
-          </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={bitsOfCode}
-              isBlog={false}
-              title="Bits-0f-Code"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
-              demoLink="https://blogs.soumya-jit.tech/"
+              demoLink="https://glitch.shooliniuniversity.com/"
             />
           </Col>
 
