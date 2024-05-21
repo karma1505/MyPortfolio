@@ -13,7 +13,7 @@ function AboutCard() {
             <br />
             Currently a student at Shoolini University, Solan,
             <br />
-            Pursuing B.Tech CSE (ML & AI) - 2021-2025
+            I'm pursuing B.Tech CSE (ML & AI) - 2021-2025. 
             <br />
             <br />
             Apart from coding, some other interests that I have
@@ -31,7 +31,7 @@ function AboutCard() {
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Even if it works, there's always room for improvement"{" "}
+            My Motto, "Even if it works, there's always room for improvement"{" "}
           </p>
         </blockquote>
       </Card.Body>

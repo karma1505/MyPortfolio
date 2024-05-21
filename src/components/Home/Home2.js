@@ -20,25 +20,19 @@ function Home2() {
               I fell in love with programming in high school and my since then my curiosity grew
               <br />
               <br />I am fluent in classics like
-                <b className="purple"> C++, Javascript and Python </b>
+                <b className="purple"> Python, C++ and JavaScript </b>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
-                <b className="purple">Web Technologies and Products </b> and
+              My Fields Of Interest Include  &nbsp;
+                <b className="purple">Working On Data Science And AI Models </b> and
                 also in areas related to{" "}
                 <b className="purple">
-                  Artificial Intelligence
+                  Web Development.
                 </b>
               <br />
               <br />
               Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              &nbsp; like
-                <b className="purple"> React.js and Next.js</b>
+              which can help the people ease their work. You can find these projects on my Projects page.
             </p>
           </Col>
           <Col md={4} className="myAvtar">
